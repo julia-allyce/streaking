@@ -1,8 +1,9 @@
-git init
+rm -rf streaking
+git clone "https://${GITHUB_TOKEN}@${GITHUB_REPO}"
+cd streaking
+
 git config user.name "Julia Allyce"
 git config user.email ${EMAIL}
-git remote add origin "https://${GITHUB_TOKEN}@${GITHUB_REPO}"
-git pull origin master
 
 echo "lol" >> README.md
 
