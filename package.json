@@ -1,0 +1,19 @@
+{
+  "name": "streaking",
+  "version": "1.0.0",
+  "description": "Repo to keep my github stats on fire lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julia-allyce/streaking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia-allyce/streaking/issues"
+  },
+  "homepage": "https://github.com/julia-allyce/streaking"
+}
