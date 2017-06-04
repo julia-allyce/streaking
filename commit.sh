@@ -11,6 +11,6 @@ while [  $COUNTER -lt $DAY ]; do
     echo "lol" >> README.md
     git add README.md
     git commit -m "killin' it"
-    git push origin master
     let COUNTER=COUNTER+1 
 done
+git push origin master
