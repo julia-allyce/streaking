@@ -1,3 +1,5 @@
+#! /bin/bash
+
 rm -rf streaking
 git clone "https://${GITHUB_TOKEN}@${GITHUB_REPO}"
 cd streaking
